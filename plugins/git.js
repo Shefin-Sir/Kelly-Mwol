@@ -9,7 +9,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.imgur.com/6M8NfiI.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Kelly Mwol bot created by Shefin Sir*
 *Creator number : wa.me/919567489404?text=Hi%20Shefin%20Sir.%20*
 
 *Githublink (Setup)  :    https://github.com/Shefin-Sir/Kelly-Mwol*
