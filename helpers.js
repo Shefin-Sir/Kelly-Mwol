@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *LizaMwol*:  ```" + msg + "```"
+    return "✅ *KellyMwol*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *LizaMwol*:  ```" + msg + "```"
+    return "🛑 *KellyMwol*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *LizaMwol*:  ```" + msg + "```"
+    return "⏺️ *KellyMwol*:  ```" + msg + "```"
 }
 
 
