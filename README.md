@@ -20,7 +20,7 @@
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shefin-Sir/Kelly-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ShefinSir/KellyMwol?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ShefinSir/Kelly-Mwol-QR)
 
 ### ⚠️Warning
 ```
